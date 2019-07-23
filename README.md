@@ -1,16 +1,9 @@
-# sqflite
+# CRUD Flutter
+1. SQFLite
+2. BLoC (Business Logic Component)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshot
+<img src="https://user-images.githubusercontent.com/48744669/61728675-e41caa80-ad9f-11e9-8e18-919bc310af40.png" width="25%"/>
+<img src="https://user-images.githubusercontent.com/48744669/61728678-e41caa80-ad9f-11e9-91c4-1568c54b49fd.png" width="25%"/>
+<img src="https://user-images.githubusercontent.com/48744669/61728680-e41caa80-ad9f-11e9-812b-65f4d8303d83.png" width="25%"/>
+<img src="https://user-images.githubusercontent.com/48744669/61728682-e4b54100-ad9f-11e9-84bf-12078fa84c04.png" width="25%"/>
